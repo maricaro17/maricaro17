@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soy profesional en Sistemas, actualmente estoy realizando cursos de manera intensiva en el área de Desarrollo Web para ampliar mis conocimientso. Soy apasionada por el Diseño web y cuento con habilidades y conocimientos en React JS, HTML,CSS, Javascript, Visual Code y metodologías agiles de scrum, también tengo dominio de las herramientas ofimáticas. 
+Soy profesional en Sistemas, actualmente estoy realizando cursos de manera intensiva en el área de Desarrollo Web para ampliar mis conocimientso. Soy apasionada por el Diseño web y cuento con habilidades y conocimientos en React JS, HTML,CSS, Javascript y metodologías agiles de scrum, también tengo dominio de las herramientas ofimáticas. 
 He tenido experiencia en desarrollo de proyectos tecnológicos y soporte técnico. 
 Soy una persona con competencias como liderazgo, trabajo en equipo y aprendizaje rápido y constante. 
 
